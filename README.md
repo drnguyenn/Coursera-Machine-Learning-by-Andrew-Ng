@@ -19,7 +19,7 @@ The course will also draw from numerous case studies and applications, so that y
 - CEO/Founder Landing AI
 - Co-founder, Coursera
 - Adjunct Professor, Stanford University
-- formerly Chief Scientist,Baidu and founding lead of Google Brain
+- Formerly Chief Scientist, Baidu and founding lead of Google Brain
 
 | :speech_balloon: Language | English - *Subtitles:* Chinese (Simplified), Hebrew, Spanish, Hindi, Japanese |
 | :--- | --- |
